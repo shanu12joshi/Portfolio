@@ -164,22 +164,40 @@ hr{
 
 /***********************************Button**************************************************************/
 
-.btn
+.btn_one
 {font-size: .8em;
     display: block;
     position: absolute;
     background: #11999e;
     padding: 10px 10px;
-    color: #e4f9f5;
+    color:#40514e ;
     font-family: 'Kaushan Script', cursive;
     text-decoration: none;
-    margin-left: 600px;
+    margin-left: 550px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     font-weight: 600;
     border: 0;
   }
+
+  .btn_two
+  {font-size: .8em;
+      display: block;
+      position: absolute;
+      background: #11999e;
+      padding: 10px 10px;
+      color: #40514e;
+      font-family: 'Kaushan Script', cursive;
+      text-decoration: none;
+      margin-left: 700px;
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+      border-radius: 3px;
+      font-weight: 600;
+      border: 0;
+    }
+
 
   .bottom-container{
     margin-top: 150px;
